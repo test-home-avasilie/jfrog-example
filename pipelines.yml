@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: GitHub
-      path: NeuraLegion/jfrog-example
+      path: test-home-avasilie/jfrog-example
 
 pipelines:
   - name: nexploit_repeater
